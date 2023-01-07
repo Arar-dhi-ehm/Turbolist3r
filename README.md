@@ -4,7 +4,7 @@ Turbolist3r is a fork of the [sublist3r](https://github.com/aboul3la/sublist3r) 
 
 Turbolist3r queries public DNS servers for each discovered subdomain. If the subdomain exists (i.e. the resolver replied with an address), the answer is categorized as CNAME or A record. By examining A records, it is possible to discover potential penetration testing targets for a given domain. Likewise, the process of looking for subdomain takeovers is simple; view the discovered CNAME records and investigate any that point to applicable cloud services.
 
-Please do not use for illegal purposes.
+Please do not use for illegal purposes. Be ethical.
 
 ## Screenshots
 
